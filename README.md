@@ -1,4 +1,5 @@
-![][1]
+！[] [1]
+转自：https://github.com/chxuan/vimplus
 
 An automatic configuration program for vim
 ===============================================
